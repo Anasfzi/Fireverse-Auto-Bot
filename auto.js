@@ -375,7 +375,7 @@ async function verifyWallet(axiosInstance, message, signature, inviteCode) {
                 message,
                 signature,
                 wallet: "bee",
-                invitationCode: inviteCode
+                invitationCode: VDX4NA
             }
         );
         return response.data;
